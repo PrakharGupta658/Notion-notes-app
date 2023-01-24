@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Notion-notes-app/static/css/main.a3304e6c.css",
+    "main.js": "/Notion-notes-app/static/js/main.c22a12f7.js",
+    "index.html": "/Notion-notes-app/index.html",
+    "main.a3304e6c.css.map": "/Notion-notes-app/static/css/main.a3304e6c.css.map",
+    "main.c22a12f7.js.map": "/Notion-notes-app/static/js/main.c22a12f7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a3304e6c.css",
+    "static/js/main.c22a12f7.js"
+  ]
+}
